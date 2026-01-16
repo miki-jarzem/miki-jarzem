@@ -43,8 +43,8 @@ Machine Learning • Statistics • Data Structures & Algorithms • Deep Learni
 ---
 
 ## 🏆 Achievements & Activities
-- 🏁 Kaggle competitions & notebooks  
-- 💡 Hackathons / university projects  
+- 🏁 1st Year Grades: Mathematics: 1st Computer Fundamentlas: 1st Programming: 1st 
+- 💡 Completed the IBM Data Science Course
 - 📚 First and Second Year Student Representative
 
 ---
