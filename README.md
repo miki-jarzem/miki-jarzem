@@ -2,7 +2,7 @@
 🎓 First-year Data Science & AI student | 📊 Machine Learning | 🤖 AI | 💻 Python
 
 I'm a university student passionate about building real-world data-driven and AI systems.  
-Currently focused on strengthening my foundations in **machine learning and statistics while building practical projects for future placements/internships.
+Currently focused on strengthening my foundations in machine learning and statistics while building practical projects for future placements/internships.
 
 ---
 
