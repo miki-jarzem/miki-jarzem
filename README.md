@@ -1,14 +1,14 @@
  Hi, I'm Mikolaj 👋  
 🎓 First-year Data Science & AI student | 📊 Machine Learning | 🤖 AI | 💻 Python
 
-I'm a university student passionate about building real-world data-driven and AI systems.  
+I'm a university student passionate about solving real-world data-driven problems.  
 Currently focused on strengthening my foundations in machine learning and statistics while building practical projects for future placements/internships.
 
 ---
 
 ## 🚀 About Me
-- 🎓 First-year student in Data Science & Artificial Intelligence  
-- 🧠 Interested in Machine Learning, Deep Learning, and applied AI  
+- 🎓 Second-year student in Data Science & Artificial Intelligence  
+- 🧠 Interested in Machine Learning, Data Science, and applied AI  
 - 🔍 Enjoy working on real-world datasets and problem-solving  
 - 📈 Actively building projects for internships/placements  
 - 🛠 Currently learning: `Python`, `Pandas`, `Scikit-learn`, `PyTorch`, `SQL`, `Git`
